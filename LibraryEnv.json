@@ -1,0 +1,28 @@
+{
+	"id": "2cda9607-3c16-4ae4-aa5d-d216dbdd141c",
+	"name": "Testing",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "base_url2",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "book_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-07-05T22:38:59.799Z",
+	"_postman_exported_using": "Postman/12.18.0"
+}
